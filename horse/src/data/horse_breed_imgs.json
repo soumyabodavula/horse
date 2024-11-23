@@ -2,1761 +2,2113 @@
     {
         "Name": "Abaga",
         "Link": "https://en.wikipedia.org/wiki/Abaga_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Abyssinian",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses#Abyssinian",
-        "Image": "horse_images/Abyssinian.jpg"
+        "Image": "/data/horse_images/Abyssinian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Adaev",
         "Link": "https://en.wikipedia.org/wiki/Adaev_(Horse)",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Aegidienberger",
         "Link": "https://en.wikipedia.org/wiki/Aegidienberger",
-        "Image": "horse_images/Aegidienberger.jpg"
+        "Image": "/data/horse_images/Aegidienberger.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aegidienberger.jpg/220px-Aegidienberger.jpg"
     },
     {
         "Name": "Akhal-Teke",
         "Link": "https://en.wikipedia.org/wiki/Akhal-Teke",
-        "Image": "horse_images/Akhal-Teke.jpg"
+        "Image": "/data/horse_images/Akhal-Teke.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dagat-Geli.jpg/220px-Dagat-Geli.jpg"
     },
     {
         "Name": "Albanian",
         "Link": "https://en.wikipedia.org/wiki/Albanian_horse",
-        "Image": "horse_images/Albanian.jpg"
+        "Image": "/data/horse_images/Albanian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bjeshk%C3%ABt_e_Kallabakut.JPG/220px-Bjeshk%C3%ABt_e_Kallabakut.JPG"
     },
     {
         "Name": "Altai",
         "Link": "https://en.wikipedia.org/wiki/Altai_horse",
-        "Image": "horse_images/Altai.jpg"
+        "Image": "/data/horse_images/Altai.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Horse_Altai_01.jpg/220px-Horse_Altai_01.jpg"
     },
     {
         "Name": "Alter Real",
         "Link": "https://en.wikipedia.org/wiki/Lusitano#Alter_Real",
-        "Image": "horse_images/Alter_Real.jpg"
+        "Image": "/data/horse_images/Alter_Real.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lusitano_Hengst_%28132668445%29.jpeg/220px-Lusitano_Hengst_%28132668445%29.jpeg"
     },
     {
         "Name": "American Bashkir Curly",
         "Link": "https://en.wikipedia.org/wiki/American_Bashkir_Curly",
-        "Image": "horse_images/American_Bashkir_Curly.jpg"
+        "Image": "/data/horse_images/American_Bashkir_Curly.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Curly_horse_mane.jpg/220px-Curly_horse_mane.jpg"
     },
     {
         "Name": "American Belgian Draft",
         "Link": "https://en.wikipedia.org/wiki/American_Belgian_Draft",
-        "Image": "horse_images/American_Belgian_Draft.jpg"
+        "Image": "/data/horse_images/American_Belgian_Draft.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Belgian_draft_horse2_%28cropped%29.jpg/220px-Belgian_draft_horse2_%28cropped%29.jpg"
     },
     {
         "Name": "American Cream Draft",
         "Link": "https://en.wikipedia.org/wiki/American_Cream_Draft",
-        "Image": "horse_images/American_Cream_Draft.jpg"
+        "Image": "/data/horse_images/American_Cream_Draft.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/American_Cream_Draft_Horse.jpg/220px-American_Cream_Draft_Horse.jpg"
     },
     {
         "Name": "American Indian Horse",
         "Link": "https://en.wikipedia.org/wiki/American_Indian_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "American Paint Horse",
         "Link": "https://en.wikipedia.org/wiki/American_Paint_Horse",
-        "Image": "horse_images/American_Paint_Horse.jpg"
+        "Image": "/data/horse_images/American_Paint_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Paint_Horse_REFON.jpg/220px-Paint_Horse_REFON.jpg"
     },
     {
         "Name": "American Quarter Horse",
         "Link": "https://en.wikipedia.org/wiki/American_Quarter_Horse",
-        "Image": "horse_images/American_Quarter_Horse.jpg"
+        "Image": "/data/horse_images/American_Quarter_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Roan.jpg/220px-Roan.jpg"
     },
     {
         "Name": "American Saddlebred",
         "Link": "https://en.wikipedia.org/wiki/American_Saddlebred",
-        "Image": "horse_images/American_Saddlebred.jpg"
+        "Image": "/data/horse_images/American_Saddlebred.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/American_Saddlebred3.jpg/220px-American_Saddlebred3.jpg"
     },
     {
         "Name": "American Warmblood",
         "Link": "https://en.wikipedia.org/wiki/American_Warmblood",
-        "Image": "horse_images/American_Warmblood.jpg"
+        "Image": "/data/horse_images/American_Warmblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WPT2013-CDI4-Br%C3%BChe_Christian-Cinco_de_Mayo-3.JPG/220px-WPT2013-CDI4-Br%C3%BChe_Christian-Cinco_de_Mayo-3.JPG"
     },
     {
         "Name": "Andalusian",
         "Link": "https://en.wikipedia.org/wiki/Andalusian_horse",
-        "Image": "horse_images/Andalusian.jpg"
+        "Image": "/data/horse_images/Andalusian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Andalusian_horse_moscow.jpg/220px-Andalusian_horse_moscow.jpg"
     },
     {
         "Name": "Andravida",
         "Link": "https://en.wikipedia.org/wiki/Andravida_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Anglo-Arabian",
         "Link": "https://en.wikipedia.org/wiki/Anglo-Arabian",
-        "Image": "horse_images/Anglo-Arabian.jpg"
+        "Image": "/data/horse_images/Anglo-Arabian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Etalon_Anglo-arabe.JPG/220px-Etalon_Anglo-arabe.JPG"
     },
     {
         "Name": "Anglo-Kabarda",
         "Link": "https://en.wikipedia.org/wiki/Anglo-Kabarda",
-        "Image": "horse_images/Anglo-Kabarda.jpg"
+        "Image": "/data/horse_images/Anglo-Kabarda.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AngloKabardiner.jpg/220px-AngloKabardiner.jpg"
     },
     {
         "Name": "Appaloosa",
         "Link": "https://en.wikipedia.org/wiki/Appaloosa",
-        "Image": "horse_images/Appaloosa.jpg"
+        "Image": "/data/horse_images/Appaloosa.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/THIEL_619.jpg/210px-THIEL_619.jpg"
     },
     {
         "Name": "Arabian",
         "Link": "https://en.wikipedia.org/wiki/Arabian_horse",
-        "Image": "horse_images/Arabian.jpg"
+        "Image": "/data/horse_images/Arabian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halterstandingshotarabianone.jpg/220px-Halterstandingshotarabianone.jpg"
     },
     {
         "Name": "Ardennais",
         "Link": "https://en.wikipedia.org/wiki/Ardennais",
-        "Image": "horse_images/Ardennais.jpg"
+        "Image": "/data/horse_images/Ardennais.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Etalon_race_ardennaise_1.jpg/220px-Etalon_race_ardennaise_1.jpg"
     },
     {
         "Name": "Arenberg-Nordkirchen",
         "Link": "https://en.wikipedia.org/wiki/Arenberg-Nordkirchen",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Asturc\u00f3n",
         "Link": "https://en.wikipedia.org/wiki/Asturc%C3%B3n",
-        "Image": "horse_images/Asturc\u00f3n.jpg"
+        "Image": "/data/horse_images/Asturc\u00f3n.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Asturcon.jpg/220px-Asturcon.jpg"
     },
     {
         "Name": "Australian Draught",
         "Link": "https://en.wikipedia.org/wiki/Australian_Draught",
-        "Image": "horse_images/Australian_Draught.jpg"
+        "Image": "/data/horse_images/Australian_Draught.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aust_Draught_Horses.JPG/220px-Aust_Draught_Horses.JPG"
     },
     {
         "Name": "Australian Stock Horse",
         "Link": "https://en.wikipedia.org/wiki/Australian_Stock_Horse",
-        "Image": "horse_images/Australian_Stock_Horse.jpg"
+        "Image": "/data/horse_images/Australian_Stock_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stock_Horse_ready_for_work.jpg/220px-Stock_Horse_ready_for_work.jpg"
     },
     {
         "Name": "Austrian Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Austrian_Warmblood",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Auvergne",
         "Link": "https://en.wikipedia.org/wiki/Auvergne_horse",
-        "Image": "horse_images/Auvergne.jpg"
+        "Image": "/data/horse_images/Auvergne.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nemo-auvergnat-1.jpg/220px-Nemo-auvergnat-1.jpg"
     },
     {
         "Name": "Auxois",
         "Link": "https://en.wikipedia.org/wiki/Auxois",
-        "Image": "horse_images/Auxois.jpg"
+        "Image": "/data/horse_images/Auxois.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Horse_and_hay_bale%2C_Auxois_horse%2C_Burgundy%2C_France._flip-crop2.jpg/220px-Horse_and_hay_bale%2C_Auxois_horse%2C_Burgundy%2C_France._flip-crop2.jpg"
     },
     {
         "Name": "Axios",
         "Link": "https://en.wikipedia.org/wiki/Axios_horse",
-        "Image": "horse_images/Axios.jpg"
+        "Image": "/data/horse_images/Axios.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Axios_Delta_wild_horses.jpg/220px-Axios_Delta_wild_horses.jpg"
     },
     {
         "Name": "Azerbaijan",
         "Link": "https://en.wikipedia.org/wiki/Azerbaijan_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Azteca",
         "Link": "https://en.wikipedia.org/wiki/Azteca_horse",
-        "Image": "horse_images/Azteca.jpg"
+        "Image": "/data/horse_images/Azteca.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Caballo_Azteca_Mexico.jpg/220px-Caballo_Azteca_Mexico.jpg"
     },
     {
         "Name": "Baise horse, Guangxi",
         "Link": "https://en.wikipedia.org/wiki/Baise_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Bale",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses#Bale",
-        "Image": "horse_images/Bale.jpg"
+        "Image": "/data/horse_images/Bale.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Balearic horse, see Mallorqu\u00edn and Menorqu\u00edn",
         "Link": "https://en.wikipedia.org/wiki/Balearic_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Balikun horse",
         "Link": "https://en.wikipedia.org/wiki/Balikun_horse",
-        "Image": "horse_images/Balikun_horse.jpg"
+        "Image": "/data/horse_images/Balikun_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Balikun.jpg/220px-Balikun.jpg"
     },
     {
         "Name": "Baluchi horse",
         "Link": "https://en.wikipedia.org/wiki/Baluchi_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Banker horse",
         "Link": "https://en.wikipedia.org/wiki/Banker_horse",
-        "Image": "horse_images/Banker_horse.jpg"
+        "Image": "/data/horse_images/Banker_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/SpanishMustangsOfCorolla.jpg/220px-SpanishMustangsOfCorolla.jpg"
     },
     {
         "Name": "Barb horse",
         "Link": "https://en.wikipedia.org/wiki/Barb_horse",
-        "Image": "horse_images/Barb_horse.jpg"
+        "Image": "/data/horse_images/Barb_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Zafira_Al_Saida_0001.jpg/220px-Zafira_Al_Saida_0001.jpg"
     },
     {
         "Name": "Bardigiano",
         "Link": "https://en.wikipedia.org/wiki/Bardigiano",
-        "Image": "horse_images/Bardigiano.jpg"
+        "Image": "/data/horse_images/Bardigiano.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bardigiano.JPG/220px-Bardigiano.JPG"
     },
     {
         "Name": "Bashkir horse",
         "Link": "https://en.wikipedia.org/wiki/Bashkir_horse",
-        "Image": "horse_images/Bashkir_horse.jpg"
+        "Image": "/data/horse_images/Bashkir_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%D0%91%D0%B0%D1%88%D2%9B%D2%B1%D1%80%D1%82_%D0%B0%D1%82%D1%8B.jpg/220px-%D0%91%D0%B0%D1%88%D2%9B%D2%B1%D1%80%D1%82_%D0%B0%D1%82%D1%8B.jpg"
     },
     {
         "Name": "Basque Mountain Horse",
         "Link": "https://en.wikipedia.org/wiki/Basque_Mountain_Horse",
-        "Image": "horse_images/Basque_Mountain_Horse.jpg"
+        "Image": "/data/horse_images/Basque_Mountain_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arraba_001_zaldiletsua.jpg/220px-Arraba_001_zaldiletsua.jpg"
     },
     {
         "Name": "Bavarian Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Bavarian_Warmblood",
-        "Image": "horse_images/Bavarian_Warmblood.jpg"
+        "Image": "/data/horse_images/Bavarian_Warmblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bavarian_Warmblood.jpg/220px-Bavarian_Warmblood.jpg"
     },
     {
         "Name": "Belgian Draught, also Brabant, Belgisch Trekpaard, Trait belge",
         "Link": "https://en.wikipedia.org/wiki/Belgian_Draught",
-        "Image": "horse_images/Belgian_Draught,_also_Brabant,_Belgisch_Trekpaard,_Trait_belge.jpg"
+        "Image": "/data/horse_images/Belgian_Draught,_also_Brabant,_Belgisch_Trekpaard,_Trait_belge.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Belgisch_trekpaard1.JPG/220px-Belgisch_trekpaard1.JPG"
     },
     {
         "Name": "Belgian Sport Horse",
         "Link": "https://en.wikipedia.org/wiki/Belgian_Sport_Horse",
-        "Image": "horse_images/Belgian_Sport_Horse.jpg"
+        "Image": "/data/horse_images/Belgian_Sport_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/R%C3%AAveur_de_Hurtebise_ridden_by_Kevin_Staut_at_the_2016_Olympic_Games_in_Rio_de_Janeiro_%28cropped%29.jpeg/220px-R%C3%AAveur_de_Hurtebise_ridden_by_Kevin_Staut_at_the_2016_Olympic_Games_in_Rio_de_Janeiro_%28cropped%29.jpeg"
     },
     {
         "Name": "Belgian Trotter",
         "Link": "https://en.wikipedia.org/wiki/Belgian_Trotter",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Belgian Warmblood (includes Belgian Half-blood)",
         "Link": "https://en.wikipedia.org/wiki/Belgian_Warmblood",
-        "Image": "horse_images/Belgian_Warmblood_(includes_Belgian_Half-blood).jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Bhutia Horse, also Bhotia, Bhote ghoda, Bhutan, Bhutani, Bhutua",
         "Link": "https://en.wikipedia.org/wiki/Bhutia_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Black Forest Horse or Black Forest Coldblood",
         "Link": "https://en.wikipedia.org/wiki/Black_Forest_Horse",
-        "Image": "horse_images/Black_Forest_Horse_or_Black_Forest_Coldblood.jpg"
+        "Image": "/data/horse_images/Black_Forest_Horse_or_Black_Forest_Coldblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pferdeschlitten.jpg/220px-Pferdeschlitten.jpg"
     },
     {
         "Name": "Blazer horse",
         "Link": "https://en.wikipedia.org/wiki/Blazer_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Boerperd",
         "Link": "https://en.wikipedia.org/wiki/Boerperd",
-        "Image": "horse_images/Boerperd.jpg"
+        "Image": "/data/horse_images/Boerperd.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Boerperd.jpg/220px-Boerperd.jpg"
     },
     {
         "Name": "Borana",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses#Borana",
-        "Image": "horse_images/Borana.jpg"
+        "Image": "/data/horse_images/Borana.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Bosnian Mountain Horse",
         "Link": "https://en.wikipedia.org/wiki/Bosnian_Mountain_Horse",
-        "Image": null
+        "Image": "/data/horse_images/Bosnian_Mountain_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bosanski_brdski_konj_pastuh_%28cropped%29_2.jpg/220px-Bosanski_brdski_konj_pastuh_%28cropped%29_2.jpg"
     },
     {
         "Name": "Boulonnais horse",
         "Link": "https://en.wikipedia.org/wiki/Boulonnais_horse",
-        "Image": "horse_images/Boulonnais_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Brandenburger",
         "Link": "https://en.wikipedia.org/wiki/Brandenburger",
-        "Image": "horse_images/Brandenburger.jpg"
+        "Image": "/data/horse_images/Brandenburger.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/William_FOX-PITT_JEM2014_crop.jpg/220px-William_FOX-PITT_JEM2014_crop.jpg"
     },
     {
         "Name": "Brazilian Sport Horse (Brasileiro de Hipismo)",
         "Link": "https://en.wikipedia.org/wiki/Brazilian_Sport_Horse",
-        "Image": "horse_images/Brazilian_Sport_Horse_(Brasileiro_de_Hipismo).jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Breton horse, or Trait Breton",
         "Link": "https://en.wikipedia.org/wiki/Breton_horse",
-        "Image": "horse_images/Breton_horse,_or_Trait_Breton.jpg"
+        "Image": "/data/horse_images/Breton_horse,_or_Trait_Breton.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chevaux_trait_breton_Creyssac_%281%29.JPG/220px-Chevaux_trait_breton_Creyssac_%281%29.JPG"
     },
     {
         "Name": "British Warmblood",
         "Link": "https://en.wikipedia.org/wiki/British_Warmblood",
-        "Image": "horse_images/British_Warmblood.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Brumby",
         "Link": "https://en.wikipedia.org/wiki/Brumby",
-        "Image": "horse_images/Brumby.jpg"
+        "Image": "/data/horse_images/Brumby.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Brumbies.jpg/220px-Brumbies.jpg"
     },
     {
         "Name": "Budyonny horse or Budenny",
         "Link": "https://en.wikipedia.org/wiki/Budyonny_horse",
-        "Image": "horse_images/Budyonny_horse_or_Budenny.jpg"
+        "Image": "/data/horse_images/Budyonny_horse_or_Budenny.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Two_year_old_budjonny_stallions_in_russia.jpg/220px-Two_year_old_budjonny_stallions_in_russia.jpg"
     },
     {
         "Name": "Burguete horse",
         "Link": "https://en.wikipedia.org/wiki/Burguete_horse",
-        "Image": "horse_images/Burguete_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Burmese Horse",
         "Link": "https://en.wikipedia.org/wiki/Burmese_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Byelorussian Harness Horse",
         "Link": "https://en.wikipedia.org/wiki/Byelorussian_Harness_Horse",
-        "Image": "horse_images/Byelorussian_Harness_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Calabrese horse",
         "Link": "https://en.wikipedia.org/wiki/Calabrese_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Camargue horse",
         "Link": "https://en.wikipedia.org/wiki/Camargue_horse",
-        "Image": "horse_images/Camargue_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Camarillo White Horse",
         "Link": "https://en.wikipedia.org/wiki/Camarillo_White_Horse",
-        "Image": "horse_images/Camarillo_White_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Campeiro",
         "Link": "https://en.wikipedia.org/wiki/Campeiro",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Campolina",
         "Link": "https://en.wikipedia.org/wiki/Campolina",
-        "Image": "horse_images/Campolina.jpg"
+        "Image": "/data/horse_images/Campolina.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Campolina_newer_morphology.jpg/220px-Campolina_newer_morphology.jpg"
     },
     {
         "Name": "Canadian horse",
         "Link": "https://en.wikipedia.org/wiki/Canadian_horse",
-        "Image": "horse_images/Canadian_horse.jpg"
+        "Image": "/data/horse_images/Canadian_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cheval_canadien_au_trot_3372.jpg/220px-Cheval_canadien_au_trot_3372.jpg"
     },
     {
         "Name": "Canadian Pacer",
         "Link": "https://en.wikipedia.org/wiki/Canadian_Pacer",
-        "Image": "horse_images/Canadian_Pacer.jpg"
+        "Image": "/data/horse_images/Canadian_Pacer.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cheval_canadien_au_trot_3372.jpg/220px-Cheval_canadien_au_trot_3372.jpg"
     },
     {
         "Name": "Carolina Marsh Tacky",
         "Link": "https://en.wikipedia.org/wiki/Carolina_Marsh_Tacky",
-        "Image": "horse_images/Carolina_Marsh_Tacky.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Carthusian Spanish horse",
         "Link": "https://en.wikipedia.org/wiki/Carthusian_Spanish_horse",
-        "Image": "horse_images/Carthusian_Spanish_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Caspian horse",
         "Link": "https://en.wikipedia.org/wiki/Caspian_horse",
-        "Image": "horse_images/Caspian_horse.jpg"
+        "Image": "/data/horse_images/Caspian_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caspian_Stallion_%28caspians_are_considered_horses%2C_not_ponies%29.jpg/220px-Caspian_Stallion_%28caspians_are_considered_horses%2C_not_ponies%29.jpg"
     },
     {
         "Name": "Castilian, see Andalusian",
         "Link": "https://en.wikipedia.org/wiki/Andalusian_horse",
-        "Image": "horse_images/Castilian,_see_Andalusian.jpg"
+        "Image": "/data/horse_images/Castilian,_see_Andalusian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Andalusian_horse_moscow.jpg/220px-Andalusian_horse_moscow.jpg"
     },
     {
         "Name": "Castillonnais",
         "Link": "https://en.wikipedia.org/wiki/Castillonnais",
-        "Image": "horse_images/Castillonnais.jpg"
+        "Image": "/data/horse_images/Castillonnais.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CastillonnaisSISQA4.jpg/220px-CastillonnaisSISQA4.jpg"
     },
     {
         "Name": "Catria horse",
         "Link": "https://en.wikipedia.org/wiki/Catria_horse",
-        "Image": "horse_images/Catria_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Cavallo Romano della Maremma Laziale",
         "Link": "https://en.wikipedia.org/wiki/Cavallo_Romano_della_Maremma_Laziale",
-        "Image": "horse_images/Cavallo_Romano_della_Maremma_Laziale.jpg"
+        "Image": "/data/horse_images/Cavallo_Romano_della_Maremma_Laziale.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cavallo_Romano_della_Maremma_Laziale.jpg/220px-Cavallo_Romano_della_Maremma_Laziale.jpg"
     },
     {
         "Name": "Cerbat Mustang",
         "Link": "https://en.wikipedia.org/wiki/Cerbat_Mustang",
-        "Image": "horse_images/Cerbat_Mustang.jpg"
+        "Image": "/data/horse_images/Cerbat_Mustang.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Whb.Par.3815.Image.200.198.1.jpg"
     },
     {
         "Name": "Chickasaw Horse, see Florida Cracker Horse",
         "Link": "https://en.wikipedia.org/wiki/Florida_Cracker_Horse",
-        "Image": "horse_images/Chickasaw_Horse,_see_Florida_Cracker_Horse.jpg"
+        "Image": "/data/horse_images/Chickasaw_Horse,_see_Florida_Cracker_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cracker_horse_1.jpg/220px-Cracker_horse_1.jpg"
     },
     {
         "Name": "Chaidamu horse",
         "Link": "https://en.wikipedia.org/wiki/Chaidamu_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Chernomor horse",
         "Link": "https://en.wikipedia.org/wiki/Chernomor_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Chilean horse or Chilean Corralero",
         "Link": "https://en.wikipedia.org/wiki/Chilean_horse",
-        "Image": "horse_images/Chilean_horse_or_Chilean_Corralero.jpg"
+        "Image": "/data/horse_images/Chilean_horse_or_Chilean_Corralero.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joven_de_Vicu%C3%B1a%2C_Chile%2C_vestido_de_huaso_para_las_celebraciones_conmemorativas_del_Combate_Naval_de_Iquique.jpg/220px-Joven_de_Vicu%C3%B1a%2C_Chile%2C_vestido_de_huaso_para_las_celebraciones_conmemorativas_del_Combate_Naval_de_Iquique.jpg"
     },
     {
         "Name": "Chinese Mongolian horse",
         "Link": "https://en.wikipedia.org/wiki/Chinese_Mongolian_horse",
-        "Image": "horse_images/Chinese_Mongolian_horse.jpg"
+        "Image": "/data/horse_images/Chinese_Mongolian_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Huitengxile_wind_farm_873472543.jpg/220px-Huitengxile_wind_farm_873472543.jpg"
     },
     {
         "Name": "Choctaw horse",
         "Link": "https://en.wikipedia.org/wiki/Choctaw_horse",
-        "Image": "horse_images/Choctaw_horse.jpg"
+        "Image": "/data/horse_images/Choctaw_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CHOCTAW-HERD-By-Laura-Bold-1.jpg/220px-CHOCTAW-HERD-By-Laura-Bold-1.jpg"
     },
     {
         "Name": "Cleveland Bay",
         "Link": "https://en.wikipedia.org/wiki/Cleveland_Bay",
-        "Image": "horse_images/Cleveland_Bay.jpg"
+        "Image": "/data/horse_images/Cleveland_Bay.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_standard_cyclopedia_of_modern_agriculture_and_rural_economy%2C_by_the_most_distinguished_authorities_and_specialists_under_the_editorship_of_Professor_R._Patrick_Wright_%281908%29_%2814784693422%29.jpg/220px-thumbnail.jpg"
     },
     {
         "Name": "Clydesdale horse",
         "Link": "https://en.wikipedia.org/wiki/Clydesdale_horse",
-        "Image": "horse_images/Clydesdale_horse.jpg"
+        "Image": "/data/horse_images/Clydesdale_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Clydesdale_horse_by_Bonnie_Gruenberg.JPG/220px-Clydesdale_horse_by_Bonnie_Gruenberg.JPG"
     },
     {
         "Name": "Colorado Ranger",
         "Link": "https://en.wikipedia.org/wiki/Colorado_Ranger",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Coldblood trotter",
         "Link": "https://en.wikipedia.org/wiki/Coldblood_trotter",
-        "Image": "horse_images/Coldblood_trotter.jpg"
+        "Image": "/data/horse_images/Coldblood_trotter.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J%C3%A4rvs%C3%B6faks_wins_again.jpg/220px-J%C3%A4rvs%C3%B6faks_wins_again.jpg"
     },
     {
         "Name": "Comtois horse",
         "Link": "https://en.wikipedia.org/wiki/Comtois_horse",
-        "Image": "horse_images/Comtois_horse.jpg"
+        "Image": "/data/horse_images/Comtois_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cheval_Comtois_2.jpg/220px-Cheval_Comtois_2.jpg"
     },
     {
         "Name": "Corsican horse",
         "Link": "https://en.wikipedia.org/wiki/Corsican_horse",
-        "Image": "horse_images/Corsican_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Costa Rican Saddle Horse",
         "Link": "https://en.wikipedia.org/wiki/Costa_Rican_Saddle_Horse",
-        "Image": "horse_images/Costa_Rican_Saddle_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Cretan horse, see Messara",
         "Link": "https://en.wikipedia.org/wiki/Messara_horse",
-        "Image": "horse_images/Cretan_horse,_see_Messara.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Criollo horse",
         "Link": "https://en.wikipedia.org/wiki/Criollo_horse",
-        "Image": "horse_images/Criollo_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Croatian Coldblood",
         "Link": "https://en.wikipedia.org/wiki/Croatian_Coldblood",
-        "Image": "horse_images/Croatian_Coldblood.jpg"
+        "Image": "/data/horse_images/Croatian_Coldblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hrvatski_hladnokrvnjak.jpg/220px-Hrvatski_hladnokrvnjak.jpg"
     },
     {
         "Name": "Cuban Criollo",
         "Link": "https://en.wikipedia.org/wiki/Cuban_Criollo",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Cumberland Island horse",
         "Link": "https://en.wikipedia.org/wiki/Cumberland_Island_horse",
-        "Image": "horse_images/Cumberland_Island_horse.jpg"
+        "Image": "/data/horse_images/Cumberland_Island_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Horse_herd_at_the_beach.jpg/220px-Horse_herd_at_the_beach.jpg"
     },
     {
         "Name": "Czech Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Czech_Warmblood",
-        "Image": "horse_images/Czech_Warmblood.jpg"
+        "Image": "/data/horse_images/Czech_Warmblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%C4%8Cesk%C3%BD_teplokrevn%C3%ADk_-_Keep_Smiling.jpg/220px-%C4%8Cesk%C3%BD_teplokrevn%C3%ADk_-_Keep_Smiling.jpg"
     },
     {
         "Name": "Daliboz, see Azerbaijan horse",
         "Link": "https://en.wikipedia.org/wiki/Azerbaijan_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Danish Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Danish_Warmblood",
-        "Image": "horse_images/Danish_Warmblood.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Danube Delta horse",
         "Link": "https://en.wikipedia.org/wiki/Danube_Delta_horse",
-        "Image": "horse_images/Danube_Delta_horse.jpg"
+        "Image": "/data/horse_images/Danube_Delta_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Delta_del_Danubio%2C_Ruman%C3%ADa%2C_2016-05-28%2C_DD_31_%28cropped%29.jpg/220px-Delta_del_Danubio%2C_Ruman%C3%ADa%2C_2016-05-28%2C_DD_31_%28cropped%29.jpg"
     },
     {
         "Name": "Dareshuri",
         "Link": "https://en.wikipedia.org/wiki/Dareshuri",
-        "Image": "horse_images/Dareshuri.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Datong horse",
         "Link": "https://en.wikipedia.org/wiki/Datong_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "D\u00f8lehest",
         "Link": "https://en.wikipedia.org/wiki/D%C3%B8lehest",
-        "Image": "horse_images/D\u00f8lehest.jpg"
+        "Image": "/data/horse_images/D\u00f8lehest.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dole_eating_grass.jpg/220px-Dole_eating_grass.jpg"
     },
     {
         "Name": "Don, see Russian Don",
         "Link": "https://en.wikipedia.org/wiki/Russian_Don",
-        "Image": "horse_images/Don,_see_Russian_Don.jpg"
+        "Image": "/data/horse_images/Don,_see_Russian_Don.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Donchak_2.jpg/220px-Donchak_2.jpg"
     },
     {
         "Name": "Dongola horse",
         "Link": "https://en.wikipedia.org/wiki/Dongola_horse",
-        "Image": "horse_images/Dongola_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Dutch Harness Horse",
         "Link": "https://en.wikipedia.org/wiki/Dutch_Harness_Horse",
-        "Image": "horse_images/Dutch_Harness_Horse.jpg"
+        "Image": "/data/horse_images/Dutch_Harness_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dutchharnesshorse.jpg/220px-Dutchharnesshorse.jpg"
     },
     {
         "Name": "Dutch Draft",
         "Link": "https://en.wikipedia.org/wiki/Dutch_Draft",
-        "Image": "horse_images/Dutch_Draft.jpg"
+        "Image": "/data/horse_images/Dutch_Draft.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dutch_Draft_Horse_Team.jpg/220px-Dutch_Draft_Horse_Team.jpg"
     },
     {
         "Name": "Dutch Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Dutch_Warmblood",
-        "Image": "horse_images/Dutch_Warmblood.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Dzungarian horse, see Przewalski's horse",
         "Link": "https://en.wikipedia.org/wiki/Przewalski%27s_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "East Bulgarian",
         "Link": "https://en.wikipedia.org/wiki/East_Bulgarian",
-        "Image": "horse_images/East_Bulgarian.jpg"
+        "Image": "/data/horse_images/East_Bulgarian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/East_bulgarian_Kabiyuk_2.JPG/220px-East_bulgarian_Kabiyuk_2.JPG"
     },
     {
         "Name": "Estonian Draft",
         "Link": "https://en.wikipedia.org/wiki/Estonian_Draft",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Estonian Native",
         "Link": "https://en.wikipedia.org/wiki/Estonian_Native",
-        "Image": "horse_images/Estonian_Native.jpg"
+        "Image": "/data/horse_images/Estonian_Native.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Estonian_native_horse.jpg/220px-Estonian_native_horse.jpg"
     },
     {
         "Name": "Ethiopian horses",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses",
-        "Image": "horse_images/Ethiopian_horses.jpg"
+        "Image": "/data/horse_images/Ethiopian_horses.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Falabella",
         "Link": "https://en.wikipedia.org/wiki/Falabella",
-        "Image": "horse_images/Falabella.jpg"
+        "Image": "/data/horse_images/Falabella.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/FalabellaFestivo.jpg/220px-FalabellaFestivo.jpg"
     },
     {
         "Name": "Faroese or Faroe horse, see Faroe pony in pony section",
         "Link": "https://en.wikipedia.org/wiki/Faroe_pony",
-        "Image": "horse_images/Faroese_or_Faroe_horse,_see_Faroe_pony_in_pony_section.jpg"
+        "Image": "/data/horse_images/Faroese_or_Faroe_horse,_see_Faroe_pony_in_pony_section.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rani_og_Grani4.jpg/220px-Rani_og_Grani4.jpg"
     },
     {
         "Name": "Finnhorse, or Finnish Horse",
         "Link": "https://en.wikipedia.org/wiki/Finnhorse",
-        "Image": "horse_images/Finnhorse,_or_Finnish_Horse.jpg"
+        "Image": "/data/horse_images/Finnhorse,_or_Finnish_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Finnhorse_stallion.jpg/220px-Finnhorse_stallion.jpg"
     },
     {
         "Name": "",
         "Link": null,
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Flemish Horse",
         "Link": "https://en.wikipedia.org/wiki/Flemish_Horse",
-        "Image": "horse_images/Flemish_Horse.jpg"
+        "Image": "/data/horse_images/Flemish_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vlaams_Paard_Agriflanders_%28cropped%29.jpg/220px-Vlaams_Paard_Agriflanders_%28cropped%29.jpg"
     },
     {
         "Name": "Fleuve",
         "Link": "https://en.wikipedia.org/wiki/Fleuve",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Fjord horse, also Norwegian Fjord Horse",
         "Link": "https://en.wikipedia.org/wiki/Fjord_horse",
-        "Image": "horse_images/Fjord_horse,_also_Norwegian_Fjord_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Florida Cracker Horse",
         "Link": "https://en.wikipedia.org/wiki/Florida_Cracker_Horse",
-        "Image": "horse_images/Florida_Cracker_Horse.jpg"
+        "Image": "/data/horse_images/Florida_Cracker_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cracker_horse_1.jpg/220px-Cracker_horse_1.jpg"
     },
     {
         "Name": "Foutank\u00e9 or Fouta",
         "Link": "https://en.wikipedia.org/wiki/Foutank%C3%A9",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Frederiksborger",
         "Link": "https://en.wikipedia.org/wiki/Frederiksborger",
-        "Image": "horse_images/Frederiksborger.jpg"
+        "Image": "/data/horse_images/Frederiksborger.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frederiksborghest.jpg/220px-Frederiksborghest.jpg"
     },
     {
         "Name": "Freiberger",
         "Link": "https://en.wikipedia.org/wiki/Freiberger",
-        "Image": "horse_images/Freiberger.jpg"
+        "Image": "/data/horse_images/Freiberger.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Swiss_national_stud_farm_Avenches-IMG_8518_%28cropped%29.jpg/220px-Swiss_national_stud_farm_Avenches-IMG_8518_%28cropped%29.jpg"
     },
     {
         "Name": "French Trotter",
         "Link": "https://en.wikipedia.org/wiki/French_Trotter",
-        "Image": "horse_images/French_Trotter.jpg"
+        "Image": "/data/horse_images/French_Trotter.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sulky_17-01-2010.jpg/220px-Sulky_17-01-2010.jpg"
     },
     {
         "Name": "Friesian",
         "Link": "https://en.wikipedia.org/wiki/Friesian_horse",
-        "Image": "horse_images/Friesian.jpg"
+        "Image": "/data/horse_images/Friesian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Friesian_Stallion.jpg/220px-Friesian_Stallion.jpg"
     },
     {
         "Name": "Furioso-North Star",
         "Link": "https://en.wikipedia.org/wiki/Furioso-North_Star",
-        "Image": "horse_images/Furioso-North_Star.jpg"
+        "Image": "/data/horse_images/Furioso-North_Star.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Furioso1-250x221.jpg/220px-Furioso1-250x221.jpg"
     },
     {
         "Name": "Galiceno or Galice\u00f1o",
         "Link": "https://en.wikipedia.org/wiki/Galiceno",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Gelderland horse",
         "Link": "https://en.wikipedia.org/wiki/Gelderland_horse",
-        "Image": "horse_images/Gelderland_horse.jpg"
+        "Image": "/data/horse_images/Gelderland_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gelderlander_Viersp%C3%A4nner.jpg/220px-Gelderlander_Viersp%C3%A4nner.jpg"
     },
     {
         "Name": "Giara Horse",
         "Link": "https://en.wikipedia.org/wiki/Giara_Horse",
-        "Image": "horse_images/Giara_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Gidran",
         "Link": "https://en.wikipedia.org/wiki/Gidran",
-        "Image": "horse_images/Gidran.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Groningen Horse",
         "Link": "https://en.wikipedia.org/wiki/Groningen_Horse",
-        "Image": "horse_images/Groningen_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Hackney horse",
         "Link": "https://en.wikipedia.org/wiki/Hackney_horse",
-        "Image": "horse_images/Hackney_horse.jpg"
+        "Image": "/data/horse_images/Hackney_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hackney_Horse_Stallion_CANADANCE.jpg/220px-Hackney_Horse_Stallion_CANADANCE.jpg"
     },
     {
         "Name": "Haflinger",
         "Link": "https://en.wikipedia.org/wiki/Haflinger",
-        "Image": "horse_images/Haflinger.jpg"
+        "Image": "/data/horse_images/Haflinger.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Haflinger_Westfalensonne_und_Almfee.JPG/220px-Haflinger_Westfalensonne_und_Almfee.JPG"
     },
     {
         "Name": "Hanoverian horse",
         "Link": "https://en.wikipedia.org/wiki/Hanoverian_horse",
-        "Image": "horse_images/Hanoverian_horse.jpg"
+        "Image": "/data/horse_images/Hanoverian_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lantinus_and_Lynch.jpg/220px-Lantinus_and_Lynch.jpg"
     },
     {
         "Name": "Heck horse",
         "Link": "https://en.wikipedia.org/wiki/Heck_horse",
-        "Image": "horse_images/Heck_horse.jpg"
+        "Image": "/data/horse_images/Heck_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tarpanstute_mit_Fohlen_Rheing%C3%B6nheim.JPG/220px-Tarpanstute_mit_Fohlen_Rheing%C3%B6nheim.JPG"
     },
     {
         "Name": "Heihe horse",
         "Link": "https://en.wikipedia.org/wiki/Heihe_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Henson horse",
         "Link": "https://en.wikipedia.org/wiki/Henson_horse",
-        "Image": "horse_images/Henson_horse.jpg"
+        "Image": "/data/horse_images/Henson_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cheval_henson.JPG/220px-Cheval_henson.JPG"
     },
     {
         "Name": "Hequ horse",
         "Link": "https://en.wikipedia.org/wiki/Hequ_horse",
-        "Image": "horse_images/Hequ_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Hirzai",
         "Link": "https://en.wikipedia.org/wiki/Hirzai",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Hispano-Bret\u00f3n",
         "Link": "https://en.wikipedia.org/wiki/Hispano-Bret%C3%B3n",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Hispano-\u00c1rabe also known as Hispano or Spanish Anglo-Arab",
         "Link": "https://en.wikipedia.org/wiki/Hispano-%C3%81rabe",
-        "Image": "horse_images/Hispano-\u00c1rabe_also_known_as_Hispano_or_Spanish_Anglo-Arab.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Holsteiner",
         "Link": "https://en.wikipedia.org/wiki/Holsteiner",
-        "Image": "horse_images/Holsteiner.jpg"
+        "Image": "/data/horse_images/Holsteiner.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Holsteiner_Apfelschimmel-2005.jpg/220px-Holsteiner_Apfelschimmel-2005.jpg"
     },
     {
         "Name": "Horro",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses#Horro",
-        "Image": "horse_images/Horro.jpg"
+        "Image": "/data/horse_images/Horro.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Hungarian Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Hungarian_Warmblood",
-        "Image": "horse_images/Hungarian_Warmblood.jpg"
+        "Image": "/data/horse_images/Hungarian_Warmblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Viscount_Starburst_-_Hungarian_Warmblood.jpg/220px-Viscount_Starburst_-_Hungarian_Warmblood.jpg"
     },
     {
         "Name": "Icelandic horse",
         "Link": "https://en.wikipedia.org/wiki/Icelandic_horse",
-        "Image": "horse_images/Icelandic_horse.jpg"
+        "Image": "/data/horse_images/Icelandic_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/043_S%C3%A6var_fr%C3%A1_Stangarholti.jpg/220px-043_S%C3%A6var_fr%C3%A1_Stangarholti.jpg"
     },
     {
         "Name": "Indian Country-bred",
         "Link": "https://en.wikipedia.org/wiki/Indian_Country-bred",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Iomud",
         "Link": "https://en.wikipedia.org/wiki/Iomud",
-        "Image": "horse_images/Iomud.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Irish Draught",
         "Link": "https://en.wikipedia.org/wiki/Irish_Draught",
-        "Image": "horse_images/Irish_Draught.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Irish Sport Horse or Irish Hunter",
         "Link": "https://en.wikipedia.org/wiki/Irish_Sport_Horse",
-        "Image": "horse_images/Irish_Sport_Horse_or_Irish_Hunter.jpg"
+        "Image": "/data/horse_images/Irish_Sport_Horse_or_Irish_Hunter.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chippison_%28ISH%29_%E2%80%93_Dublin_2008.jpg/220px-Chippison_%28ISH%29_%E2%80%93_Dublin_2008.jpg"
     },
     {
         "Name": "Italian Heavy Draft",
         "Link": "https://en.wikipedia.org/wiki/Italian_Heavy_Draft",
-        "Image": "horse_images/Italian_Heavy_Draft.jpg"
+        "Image": "/data/horse_images/Italian_Heavy_Draft.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Italienisches_Kaltblutpferd.jpg/220px-Italienisches_Kaltblutpferd.jpg"
     },
     {
         "Name": "Italian Trotter",
         "Link": "https://en.wikipedia.org/wiki/Italian_Trotter",
-        "Image": "horse_images/Italian_Trotter.jpg"
+        "Image": "/data/horse_images/Italian_Trotter.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Varenne.jpg/220px-Varenne.jpg"
     },
     {
         "Name": "Jaca Navarra",
         "Link": "https://en.wikipedia.org/wiki/Jaca_Navarra",
-        "Image": "horse_images/Jaca_Navarra.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Jeju horse",
         "Link": "https://en.wikipedia.org/wiki/Jeju_horse",
-        "Image": "horse_images/Jeju_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Jutland horse",
         "Link": "https://en.wikipedia.org/wiki/Jutland_horse",
-        "Image": "horse_images/Jutland_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kabarda horse, also known as Kabardian or Kabardin",
         "Link": "https://en.wikipedia.org/wiki/Kabarda_horse",
-        "Image": "horse_images/Kabarda_horse,_also_known_as_Kabardian_or_Kabardin.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kafa",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses#Kafa",
-        "Image": "horse_images/Kafa.jpg"
+        "Image": "/data/horse_images/Kafa.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Kaimanawa horses",
         "Link": "https://en.wikipedia.org/wiki/Kaimanawa_horses",
-        "Image": "horse_images/Kaimanawa_horses.jpg"
+        "Image": "/data/horse_images/Kaimanawa_horses.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Spirits_Bay_-_Wild_horses_New_Zealand.jpg/220px-Spirits_Bay_-_Wild_horses_New_Zealand.jpg"
     },
     {
         "Name": "Kalmyk horse",
         "Link": "https://en.wikipedia.org/wiki/Kalmyk_horse",
-        "Image": "horse_images/Kalmyk_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Karabair",
         "Link": "https://en.wikipedia.org/wiki/Karabair",
-        "Image": "horse_images/Karabair.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Karabakh horse also known as Azer At",
         "Link": "https://en.wikipedia.org/wiki/Karabakh_horse",
-        "Image": "horse_images/Karabakh_horse_also_known_as_Azer_At.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Karossier see Ostfriesen and Alt-Oldenburger",
         "Link": null,
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Karachai horse",
         "Link": "https://en.wikipedia.org/wiki/Karachai_horse",
-        "Image": "horse_images/Karachai_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kathiawari horse",
         "Link": "https://en.wikipedia.org/wiki/Kathiawari_horse",
-        "Image": "horse_images/Kathiawari_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kazakh Horse",
         "Link": "https://en.wikipedia.org/wiki/Kazakh_Horse",
-        "Image": "horse_images/Kazakh_Horse.jpg"
+        "Image": "/data/horse_images/Kazakh_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SB_-_Kazakh_man_on_horse_with_golden_eagle.jpg/220px-SB_-_Kazakh_man_on_horse_with_golden_eagle.jpg"
     },
     {
         "Name": "Kentucky Mountain Saddle Horse",
         "Link": "https://en.wikipedia.org/wiki/Kentucky_Mountain_Saddle_Horse",
-        "Image": "horse_images/Kentucky_Mountain_Saddle_Horse.jpg"
+        "Image": "/data/horse_images/Kentucky_Mountain_Saddle_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kentucky_Mountain_Horse.jpg/220px-Kentucky_Mountain_Horse.jpg"
     },
     {
         "Name": "Kiger Mustang",
         "Link": "https://en.wikipedia.org/wiki/Kiger_Mustang",
-        "Image": "horse_images/Kiger_Mustang.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kinsky horse",
         "Link": "https://en.wikipedia.org/wiki/Kinsky_horse",
-        "Image": "horse_images/Kinsky_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Konik",
         "Link": "https://en.wikipedia.org/wiki/Konik",
-        "Image": "horse_images/Konik.jpg"
+        "Image": "/data/horse_images/Konik.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Equus_ferus_caballus_%28conic%29_pony.jpg/220px-Equus_ferus_caballus_%28conic%29_pony.jpg"
     },
     {
         "Name": "Kyrgyz Horse",
         "Link": "https://en.wikipedia.org/wiki/Kyrgyz_Horse",
-        "Image": "horse_images/Kyrgyz_Horse.jpg"
+        "Image": "/data/horse_images/Kyrgyz_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mare_milking_Suusamyr.jpg/220px-Mare_milking_Suusamyr.jpg"
     },
     {
         "Name": "Kisber Felver",
         "Link": "https://en.wikipedia.org/wiki/Kisber_Felver",
-        "Image": "horse_images/Kisber_Felver.jpg"
+        "Image": "/data/horse_images/Kisber_Felver.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Whiskey%2C_egy_Kisb%C3%A9ri_f%C3%A9lv%C3%A9r1.jpg/220px-Whiskey%2C_egy_Kisb%C3%A9ri_f%C3%A9lv%C3%A9r1.jpg"
     },
     {
         "Name": "Kiso Horse",
         "Link": "https://en.wikipedia.org/wiki/Kiso_Horse",
-        "Image": "horse_images/Kiso_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kladruber",
         "Link": "https://en.wikipedia.org/wiki/Kladruber",
-        "Image": "horse_images/Kladruber.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Knabstrupper",
         "Link": "https://en.wikipedia.org/wiki/Knabstrupper",
-        "Image": "horse_images/Knabstrupper.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kundudo horse",
         "Link": "https://en.wikipedia.org/wiki/Kundudo_horse",
-        "Image": "horse_images/Kundudo_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kurdish horse",
         "Link": "https://en.wikipedia.org/wiki/Kurdish_horse",
-        "Image": "horse_images/Kurdish_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Kustanair",
         "Link": "https://en.wikipedia.org/wiki/Kustanair",
-        "Image": "horse_images/Kustanair.jpg"
+        "Image": "/data/horse_images/Kustanair.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stamp_of_Kazakhstan_368.jpg/220px-Stamp_of_Kazakhstan_368.jpg"
     },
     {
         "Name": "Latvian horse",
         "Link": "https://en.wikipedia.org/wiki/Latvian_horse",
-        "Image": "horse_images/Latvian_horse.jpg"
+        "Image": "/data/horse_images/Latvian_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lettwarmblut.jpg/220px-Lettwarmblut.jpg"
     },
     {
         "Name": "Lipizzan or Lipizzaner",
         "Link": "https://en.wikipedia.org/wiki/Lipizzan",
-        "Image": "horse_images/Lipizzan_or_Lipizzaner.jpg"
+        "Image": "/data/horse_images/Lipizzan_or_Lipizzaner.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lipizzaner_Conversano_Traviata.jpg/220px-Lipizzaner_Conversano_Traviata.jpg"
     },
     {
         "Name": "Lithuanian Heavy Draught",
         "Link": "https://en.wikipedia.org/wiki/Lithuanian_Heavy_Draught",
-        "Image": "horse_images/Lithuanian_Heavy_Draught.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Ljutomer Trotter",
         "Link": "https://en.wikipedia.org/wiki/Ljutomer_Trotter",
-        "Image": "horse_images/Ljutomer_Trotter.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Lokai",
         "Link": "https://en.wikipedia.org/wiki/Lokai",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Losino horse",
         "Link": "https://en.wikipedia.org/wiki/Losino_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Lusitano",
         "Link": "https://en.wikipedia.org/wiki/Lusitano",
-        "Image": "horse_images/Lusitano.jpg"
+        "Image": "/data/horse_images/Lusitano.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lusitano_Hengst_%28132668445%29.jpeg/220px-Lusitano_Hengst_%28132668445%29.jpeg"
     },
     {
         "Name": "Luxembourg Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Luxembourg_Warmblood",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Lyngshest, see Nordlandshest/ Lyngshest",
         "Link": "https://en.wikipedia.org/wiki/Nordlandshest/_Lyngshest",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "M'Bayar",
         "Link": "https://en.wikipedia.org/wiki/M%27Bayar",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "M'Par",
         "Link": "https://en.wikipedia.org/wiki/M%27Par",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Malopolski",
         "Link": "https://en.wikipedia.org/wiki/Malopolski",
-        "Image": "horse_images/Malopolski.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mallorqu\u00edn",
         "Link": "https://en.wikipedia.org/wiki/Mallorqu%C3%ADn",
-        "Image": "horse_images/Mallorqu\u00edn.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mangalarga",
         "Link": "https://en.wikipedia.org/wiki/Mangalarga",
-        "Image": "horse_images/Mangalarga.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mangalarga Marchador",
         "Link": "https://en.wikipedia.org/wiki/Mangalarga_Marchador",
-        "Image": "horse_images/Mangalarga_Marchador.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Maremmano",
         "Link": "https://en.wikipedia.org/wiki/Maremmano",
-        "Image": "horse_images/Maremmano.jpg"
+        "Image": "/data/horse_images/Maremmano.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Marmemmano6_stehend_Gang.jpg/220px-Marmemmano6_stehend_Gang.jpg"
     },
     {
         "Name": "Marisme\u00f1o",
         "Link": "https://en.wikipedia.org/wiki/Marisme%C3%B1o",
-        "Image": "horse_images/Marisme\u00f1o.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Marsh Tacky, see Carolina Marsh Tacky",
         "Link": "https://en.wikipedia.org/wiki/Carolina_Marsh_Tacky",
-        "Image": "horse_images/Marsh_Tacky,_see_Carolina_Marsh_Tacky.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Marwari horse",
         "Link": "https://en.wikipedia.org/wiki/Marwari_horse",
-        "Image": "horse_images/Marwari_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mecklenburger",
         "Link": "https://en.wikipedia.org/wiki/Mecklenburger",
-        "Image": "horse_images/Mecklenburger.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Me\u0111imurje horse",
         "Link": "https://en.wikipedia.org/wiki/Me%C4%91imurje_horse",
-        "Image": "horse_images/Me\u0111imurje_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Menorqu\u00edn horse",
         "Link": "https://en.wikipedia.org/wiki/Menorqu%C3%ADn_horse",
-        "Image": "horse_images/Menorqu\u00edn_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "M\u00e9rens horse",
         "Link": "https://en.wikipedia.org/wiki/M%C3%A9rens_horse",
-        "Image": "horse_images/M\u00e9rens_horse.jpg"
+        "Image": "/data/horse_images/M\u00e9rens_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nickel_de_Vives.jpg/220px-Nickel_de_Vives.jpg"
     },
     {
         "Name": "Messara horse",
         "Link": "https://en.wikipedia.org/wiki/Messara_horse",
-        "Image": "horse_images/Messara_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mez\u0151hegyesi sport-horse (sportl\u00f3), or Mez\u0151hegyes felver, see Hungarian Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Hungarian_Warmblood",
-        "Image": "horse_images/Mez\u0151hegyesi_sport-horse_(sportl\u00f3),_or_Mez\u0151hegyes_felver,_see_Hungarian_Warmblood.jpg"
+        "Image": "/data/horse_images/Mez\u0151hegyesi_sport-horse_(sportl\u00f3),_or_Mez\u0151hegyes_felver,_see_Hungarian_Warmblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Viscount_Starburst_-_Hungarian_Warmblood.jpg/220px-Viscount_Starburst_-_Hungarian_Warmblood.jpg"
     },
     {
         "Name": "Metis Trotter, see Russian Trotter",
         "Link": "https://en.wikipedia.org/wiki/Russian_Trotter",
-        "Image": "horse_images/Metis_Trotter,_see_Russian_Trotter.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Miquelon horse",
         "Link": "https://en.wikipedia.org/wiki/Miquelon_horse",
-        "Image": "horse_images/Miquelon_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Miniature horse",
         "Link": "https://en.wikipedia.org/wiki/Miniature_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Misaki horse",
         "Link": "https://en.wikipedia.org/wiki/Misaki_horse",
-        "Image": "horse_images/Misaki_horse.jpg"
+        "Image": "/data/horse_images/Misaki_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Misaki-uma.jpg/220px-Misaki-uma.jpg"
     },
     {
         "Name": "Missouri Fox Trotter",
         "Link": "https://en.wikipedia.org/wiki/Missouri_Fox_Trotter",
-        "Image": "horse_images/Missouri_Fox_Trotter.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Monchino",
         "Link": "https://en.wikipedia.org/wiki/Monchino",
-        "Image": "horse_images/Monchino.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mongolian Horse",
         "Link": "https://en.wikipedia.org/wiki/Mongolian_Horse",
-        "Image": "horse_images/Mongolian_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mongolian Wild Horse, see Przewalski's horse",
         "Link": "https://en.wikipedia.org/wiki/Przewalski%27s_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Monterufolino",
         "Link": "https://en.wikipedia.org/wiki/Monterufolino",
-        "Image": "horse_images/Monterufolino.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Morab",
         "Link": "https://en.wikipedia.org/wiki/Morab",
-        "Image": "horse_images/Morab.jpg"
+        "Image": "/data/horse_images/Morab.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Beautiful_bay_Morab.jpg/220px-Beautiful_bay_Morab.jpg"
     },
     {
         "Name": "Morgan horse",
         "Link": "https://en.wikipedia.org/wiki/Morgan_horse",
-        "Image": "horse_images/Morgan_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mountain Pleasure Horse",
         "Link": "https://en.wikipedia.org/wiki/Mountain_Pleasure_Horse",
-        "Image": "horse_images/Mountain_Pleasure_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Moyle horse",
         "Link": "https://en.wikipedia.org/wiki/Moyle_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Murak\u00f6zi, Murakoz, or Murak\u00f6zi l\u00f3, see Me\u0111imurje horse",
         "Link": "https://en.wikipedia.org/wiki/Me%C4%91imurje_horse",
-        "Image": "horse_images/Murak\u00f6zi,_Murakoz,_or_Murak\u00f6zi_l\u00f3,_see_Me\u0111imurje_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Murgese",
         "Link": "https://en.wikipedia.org/wiki/Murgese",
-        "Image": "horse_images/Murgese.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Mustang",
         "Link": "https://en.wikipedia.org/wiki/Mustang",
-        "Image": "horse_images/Mustang.jpg"
+        "Image": "/data/horse_images/Mustang.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mustanggelding.jpg/220px-Mustanggelding.jpg"
     },
     {
         "Name": "Namib Desert Horse",
         "Link": "https://en.wikipedia.org/wiki/Namib_Desert_Horse",
-        "Image": "horse_images/Namib_Desert_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Nangchen horse",
         "Link": "https://en.wikipedia.org/wiki/Nangchen_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "National Show Horse",
         "Link": "https://en.wikipedia.org/wiki/National_Show_Horse",
-        "Image": "horse_images/National_Show_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "New Altai",
         "Link": "https://en.wikipedia.org/wiki/New_Altai",
-        "Image": "horse_images/New_Altai.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Nez Perce Horse",
         "Link": "https://en.wikipedia.org/wiki/Nez_Perce_Horse",
-        "Image": "horse_images/Nez_Perce_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Nivernais horse",
         "Link": "https://en.wikipedia.org/wiki/Nivernais_horse",
-        "Image": "horse_images/Nivernais_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Nokota horse",
         "Link": "https://en.wikipedia.org/wiki/Nokota_horse",
-        "Image": "horse_images/Nokota_horse.jpg"
+        "Image": "/data/horse_images/Nokota_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nokota_Horses_cropped.jpg/220px-Nokota_Horses_cropped.jpg"
     },
     {
         "Name": "Noma horse",
         "Link": "https://en.wikipedia.org/wiki/Noma_horse",
-        "Image": "horse_images/Noma_horse.jpg"
+        "Image": "/data/horse_images/Noma_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Noma-Uma_in_Tenn%C5%8Dji_Zoo_3.jpg/220px-Noma-Uma_in_Tenn%C5%8Dji_Zoo_3.jpg"
     },
     {
         "Name": "Nonius horse",
         "Link": "https://en.wikipedia.org/wiki/Nonius_horse",
-        "Image": "horse_images/Nonius_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Nooitgedachter",
         "Link": "https://en.wikipedia.org/wiki/Nooitgedachter",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Nordlandshest/ Lyngshest",
         "Link": "https://en.wikipedia.org/wiki/Nordlandshest/_Lyngshest",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Noriker horse or Pinzgauer",
         "Link": "https://en.wikipedia.org/wiki/Noriker_horse",
-        "Image": "horse_images/Noriker_horse_or_Pinzgauer.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Norman Cob",
         "Link": "https://en.wikipedia.org/wiki/Norman_Cob",
-        "Image": "horse_images/Norman_Cob.jpg"
+        "Image": "/data/horse_images/Norman_Cob.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cob_Normand_Haras_St_Lo_001.jpg/220px-Cob_Normand_Haras_St_Lo_001.jpg"
     },
     {
         "Name": "Norsk Kaldblodstraver (Norwegian Coldblood Trotter), see Coldblood Trotter",
         "Link": "https://en.wikipedia.org/wiki/Coldblood_Trotter",
-        "Image": "horse_images/Norsk_Kaldblodstraver_(Norwegian_Coldblood_Trotter),_see_Coldblood_Trotter.jpg"
+        "Image": "/data/horse_images/Norsk_Kaldblodstraver_(Norwegian_Coldblood_Trotter),_see_Coldblood_Trotter.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J%C3%A4rvs%C3%B6faks_wins_again.jpg/220px-J%C3%A4rvs%C3%B6faks_wins_again.jpg"
     },
     {
         "Name": "North American Single-footing Horse",
         "Link": "https://en.wikipedia.org/wiki/North_American_Single-footing_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "North Swedish horse",
         "Link": "https://en.wikipedia.org/wiki/North_Swedish_horse",
-        "Image": "horse_images/North_Swedish_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Novoolexandrian Draught",
         "Link": "https://en.wikipedia.org/wiki/Novoolexandrian_Draught",
-        "Image": "horse_images/Novoolexandrian_Draught.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Novokirghiz",
         "Link": "https://en.wikipedia.org/wiki/Novokirghiz",
-        "Image": "horse_images/Novokirghiz.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Oberlander Horse",
         "Link": "https://en.wikipedia.org/wiki/Oberlander_Horse",
-        "Image": "horse_images/Oberlander_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Ogaden",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses#Ogaden",
-        "Image": "horse_images/Ogaden.jpg"
+        "Image": "/data/horse_images/Ogaden.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Oldenburger",
         "Link": "https://en.wikipedia.org/wiki/Oldenburger",
-        "Image": "horse_images/Oldenburger.jpg"
+        "Image": "/data/horse_images/Oldenburger.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bess2.jpg/220px-Bess2.jpg"
     },
     {
         "Name": "Orlov Trotter",
         "Link": "https://en.wikipedia.org/wiki/Orlov_Trotter",
-        "Image": "horse_images/Orlov_Trotter.jpg"
+        "Image": "/data/horse_images/Orlov_Trotter.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%8B%D1%81%D0%B0%D0%BA.jpg/220px-%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%8B%D1%81%D0%B0%D0%BA.jpg"
     },
     {
         "Name": "Ostfriesen and Alt-Oldenburger",
         "Link": "https://en.wikipedia.org/wiki/Ostfriesen_and_Alt-Oldenburger",
-        "Image": "horse_images/Ostfriesen_and_Alt-Oldenburger.jpg"
+        "Image": "/data/horse_images/Ostfriesen_and_Alt-Oldenburger.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Oost-Fries_Paard_Lithografie_1898.png/220px-Oost-Fries_Paard_Lithografie_1898.png"
     },
     {
         "Name": "Paint, see American Paint Horse",
         "Link": "https://en.wikipedia.org/wiki/American_Paint_Horse",
-        "Image": null
+        "Image": "/data/horse_images/Paint,_see_American_Paint_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Paint_Horse_REFON.jpg/220px-Paint_Horse_REFON.jpg"
     },
     {
         "Name": "Pampa horse",
         "Link": "https://en.wikipedia.org/wiki/Pampa_horse",
-        "Image": "horse_images/Pampa_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Paso Fino",
         "Link": "https://en.wikipedia.org/wiki/Paso_Fino",
-        "Image": "horse_images/Paso_Fino.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Pentro horse",
         "Link": "https://en.wikipedia.org/wiki/Pentro_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Percheron",
         "Link": "https://en.wikipedia.org/wiki/Percheron",
-        "Image": "horse_images/Percheron.jpg"
+        "Image": "/data/horse_images/Percheron.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cheval-percheron-gris_SDA2014_%28cropped%29.jpg/220px-Cheval-percheron-gris_SDA2014_%28cropped%29.jpg"
     },
     {
         "Name": "Persano horse",
         "Link": "https://en.wikipedia.org/wiki/Persano_horse",
-        "Image": "horse_images/Persano_horse.jpg"
+        "Image": "/data/horse_images/Persano_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fieracavalli_2014_-_Persano.jpg/220px-Fieracavalli_2014_-_Persano.jpg"
     },
     {
         "Name": "Peruvian Paso, sometimes called Peruvian Stepping Horse",
         "Link": "https://en.wikipedia.org/wiki/Peruvian_Paso",
-        "Image": "horse_images/Peruvian_Paso,_sometimes_called_Peruvian_Stepping_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Pintabian",
         "Link": "https://en.wikipedia.org/wiki/Pintabian",
-        "Image": "horse_images/Pintabian.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Pleven horse",
         "Link": "https://en.wikipedia.org/wiki/Pleven_horse",
-        "Image": "horse_images/Pleven_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Poitevin horse also called Mulassier",
         "Link": "https://en.wikipedia.org/wiki/Poitevin_horse",
-        "Image": "horse_images/Poitevin_horse_also_called_Mulassier.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Posavac",
         "Link": "https://en.wikipedia.org/wiki/Posavac",
-        "Image": "horse_images/Posavac.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Pottok",
         "Link": "https://en.wikipedia.org/wiki/Pottok",
-        "Image": "horse_images/Pottok.jpg"
+        "Image": "/data/horse_images/Pottok.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Pootok_arra_Orbelaunen.JPG/220px-Pootok_arra_Orbelaunen.JPG"
     },
     {
         "Name": "Priob",
         "Link": "https://en.wikipedia.org/wiki/Priob",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Pryor Mountain Mustang",
         "Link": "https://en.wikipedia.org/wiki/Pryor_Mountain_Mustang",
-        "Image": "horse_images/Pryor_Mountain_Mustang.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Przewalski's horse, a subspecies, not a \"breed\"",
         "Link": "https://en.wikipedia.org/wiki/Przewalski%27s_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Pura Raza Espa\u00f1ola or PRE, see Andalusian",
         "Link": "https://en.wikipedia.org/wiki/Andalusian_horse",
-        "Image": "horse_images/Pura_Raza_Espa\u00f1ola_or_PRE,_see_Andalusian.jpg"
+        "Image": "/data/horse_images/Pura_Raza_Espa\u00f1ola_or_PRE,_see_Andalusian.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Andalusian_horse_moscow.jpg/220px-Andalusian_horse_moscow.jpg"
     },
     {
         "Name": "Purosangue Orientale",
         "Link": "https://en.wikipedia.org/wiki/Purosangue_Orientale",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Pfalz-ardenner",
         "Link": "https://en.wikipedia.org/wiki/Pfalz-ardenner",
-        "Image": "horse_images/Pfalz-ardenner.jpg"
+        "Image": "/data/horse_images/Pfalz-ardenner.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tiergarten_Worms_Pfalz_Ardenner_2011.JPG/220px-Tiergarten_Worms_Pfalz_Ardenner_2011.JPG"
     },
     {
         "Name": "Qatgani",
         "Link": "https://en.wikipedia.org/wiki/Qatgani",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Quarab",
         "Link": "https://en.wikipedia.org/wiki/Quarab",
-        "Image": "horse_images/Quarab.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Quarter Horse, see American Quarter Horse",
         "Link": "https://en.wikipedia.org/wiki/American_Quarter_Horse",
-        "Image": "horse_images/Quarter_Horse,_see_American_Quarter_Horse.jpg"
+        "Image": "/data/horse_images/Quarter_Horse,_see_American_Quarter_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Roan.jpg/220px-Roan.jpg"
     },
     {
         "Name": "Racking horse",
         "Link": "https://en.wikipedia.org/wiki/Racking_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Retuerta horse",
         "Link": "https://en.wikipedia.org/wiki/Retuerta_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Rhenish German Coldblood also known as Rhineland Heavy Draft",
         "Link": "https://en.wikipedia.org/wiki/Rhenish_German_Coldblood",
-        "Image": "horse_images/Rhenish_German_Coldblood_also_known_as_Rhineland_Heavy_Draft.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Rhinelander horse",
         "Link": "https://en.wikipedia.org/wiki/Rhinelander_horse",
-        "Image": "horse_images/Rhinelander_horse.jpg"
+        "Image": "/data/horse_images/Rhinelander_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rheinl%C3%A4nder_mare_%28cropped%29.JPG/220px-Rheinl%C3%A4nder_mare_%28cropped%29.JPG"
     },
     {
         "Name": "Riwoche horse",
         "Link": "https://en.wikipedia.org/wiki/Riwoche_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Rocky Mountain Horse",
         "Link": "https://en.wikipedia.org/wiki/Rocky_Mountain_Horse",
-        "Image": "horse_images/Rocky_Mountain_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Romanian Sporthorse",
         "Link": "https://en.wikipedia.org/wiki/Romanian_Sporthorse",
-        "Image": "horse_images/Romanian_Sporthorse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Rottaler, see Heavy warmblood",
         "Link": "https://en.wikipedia.org/wiki/Heavy_warmblood",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Russian Don",
         "Link": "https://en.wikipedia.org/wiki/Russian_Don",
-        "Image": "horse_images/Russian_Don.jpg"
+        "Image": "/data/horse_images/Russian_Don.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Donchak_2.jpg/220px-Donchak_2.jpg"
     },
     {
         "Name": "Russian Heavy Draft",
         "Link": "https://en.wikipedia.org/wiki/Russian_Heavy_Draft",
-        "Image": "horse_images/Russian_Heavy_Draft.jpg"
+        "Image": "/data/horse_images/Russian_Heavy_Draft.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/HetRussischeWerkpaard.jpg/220px-HetRussischeWerkpaard.jpg"
     },
     {
         "Name": "Russian Trotter",
         "Link": "https://en.wikipedia.org/wiki/Russian_Trotter",
-        "Image": "horse_images/Russian_Trotter.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Saddlebred, see American Saddlebred",
         "Link": "https://en.wikipedia.org/wiki/American_Saddlebred",
-        "Image": "horse_images/Saddlebred,_see_American_Saddlebred.jpg"
+        "Image": "/data/horse_images/Saddlebred,_see_American_Saddlebred.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/American_Saddlebred3.jpg/220px-American_Saddlebred3.jpg"
     },
     {
         "Name": "Salernitano",
         "Link": "https://en.wikipedia.org/wiki/Salernitano",
-        "Image": "horse_images/Salernitano.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Samolaco horse",
         "Link": "https://en.wikipedia.org/wiki/Samolaco_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Sanfratellano",
         "Link": "https://en.wikipedia.org/wiki/Sanfratellano",
-        "Image": "horse_images/Sanfratellano.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Santa Cruz Island horse",
         "Link": "https://en.wikipedia.org/wiki/Santa_Cruz_Island_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Sarcidano horse",
         "Link": "https://en.wikipedia.org/wiki/Sarcidano_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Sardinian Anglo-Arab",
         "Link": "https://en.wikipedia.org/wiki/Sardinian_Anglo-Arab",
-        "Image": "horse_images/Sardinian_Anglo-Arab.jpg"
+        "Image": "/data/horse_images/Sardinian_Anglo-Arab.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lavinpiano_%28cropped_less%29.JPG/220px-Lavinpiano_%28cropped_less%29.JPG"
     },
     {
         "Name": "Schleswig Coldblood",
         "Link": "https://en.wikipedia.org/wiki/Schleswig_Coldblood",
-        "Image": "horse_images/Schleswig_Coldblood.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Schwarzw\u00e4lder Kaltblut, see Black Forest Horse",
         "Link": "https://en.wikipedia.org/wiki/Black_Forest_Horse",
-        "Image": "horse_images/Schwarzw\u00e4lder_Kaltblut,_see_Black_Forest_Horse.jpg"
+        "Image": "/data/horse_images/Schwarzw\u00e4lder_Kaltblut,_see_Black_Forest_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pferdeschlitten.jpg/220px-Pferdeschlitten.jpg"
     },
     {
         "Name": "Selale",
         "Link": "https://en.wikipedia.org/wiki/Ethiopian_horses#Selale",
-        "Image": "horse_images/Selale.jpg"
+        "Image": "/data/horse_images/Selale.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kundudo_mare.jpg/220px-Kundudo_mare.jpg"
     },
     {
         "Name": "Sella Italiano",
         "Link": "https://en.wikipedia.org/wiki/Sella_Italiano",
-        "Image": "horse_images/Sella_Italiano.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Selle Fran\u00e7ais",
         "Link": "https://en.wikipedia.org/wiki/Selle_Fran%C3%A7ais",
-        "Image": "horse_images/Selle_Fran\u00e7ais.jpg"
+        "Image": "/data/horse_images/Selle_Fran\u00e7ais.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cheval_selle.JPG/220px-Cheval_selle.JPG"
     },
     {
         "Name": "Senner",
         "Link": "https://en.wikipedia.org/wiki/Senner",
-        "Image": "horse_images/Senner.jpg"
+        "Image": "/data/horse_images/Senner.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Stukenbrock_Senner_Pferde_Moosheide_078%2C_cropped.jpg/220px-Stukenbrock_Senner_Pferde_Moosheide_078%2C_cropped.jpg"
     },
     {
         "Name": "Shagya Arabian",
         "Link": "https://en.wikipedia.org/wiki/Shagya_Arabian",
-        "Image": "horse_images/Shagya_Arabian.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Shan Horse or Shan Myinn",
         "Link": "https://en.wikipedia.org/wiki/Shan_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Shire horse",
         "Link": "https://en.wikipedia.org/wiki/Shire_horse",
-        "Image": "horse_images/Shire_horse.jpg"
+        "Image": "/data/horse_images/Shire_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Shire.jpg/220px-Shire.jpg"
     },
     {
         "Name": "Siciliano indigeno",
         "Link": "https://en.wikipedia.org/wiki/Siciliano_indigeno",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Silesian horse",
         "Link": "https://en.wikipedia.org/wiki/Silesian_horse",
-        "Image": "horse_images/Silesian_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Sindhi horse",
         "Link": "https://en.wikipedia.org/wiki/Sindhi_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Slovenian Cold-blood",
         "Link": "https://en.wikipedia.org/wiki/Slovenian_Cold-blood",
-        "Image": "horse_images/Slovenian_Cold-blood.jpg"
+        "Image": "/data/horse_images/Slovenian_Cold-blood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/04_Babno_Polje_konji.jpg/260px-04_Babno_Polje_konji.jpg"
     },
     {
         "Name": "Sorraia",
         "Link": "https://en.wikipedia.org/wiki/Sorraia",
-        "Image": "horse_images/Sorraia.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Sokolski horse",
         "Link": "https://en.wikipedia.org/wiki/Sokolski_horse",
-        "Image": "horse_images/Sokolski_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "South German Coldblood or S\u00fcddeutsches Kaltblut",
         "Link": "https://en.wikipedia.org/wiki/South_German_Coldblood",
-        "Image": "horse_images/South_German_Coldblood_or_S\u00fcddeutsches_Kaltblut.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Soviet Heavy Draft",
         "Link": "https://en.wikipedia.org/wiki/Soviet_Heavy_Draft",
-        "Image": "horse_images/Soviet_Heavy_Draft.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Spanish Barb",
         "Link": "https://en.wikipedia.org/wiki/Spanish_Barb",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Spanish Jennet Horse, modern, not to be confused with the historic Jennet or Spanish Jennet (see Archaic types, below)",
         "Link": "https://en.wikipedia.org/wiki/Spanish_Jennet_Horse",
-        "Image": "horse_images/Spanish_Jennet_Horse,_modern,_not_to_be_confused_with_the_historic_Jennet_or_Spanish_Jennet_(see_Archaic_types,_below).jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Spanish Mustang",
         "Link": "https://en.wikipedia.org/wiki/Spanish_Mustang",
-        "Image": "horse_images/Spanish_Mustang.jpg"
+        "Image": "/data/horse_images/Spanish_Mustang.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gypsypasturepic1.jpg/220px-Gypsypasturepic1.jpg"
     },
     {
         "Name": "Spanish Tarpan, see Sorraia",
         "Link": "https://en.wikipedia.org/wiki/Sorraia",
-        "Image": "horse_images/Spanish_Tarpan,_see_Sorraia.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Spanish Trotter (Trotador Espa\u00f1ol)",
         "Link": "https://en.wikipedia.org/wiki/Spanish_Trotter",
-        "Image": "horse_images/Spanish_Trotter_(Trotador_Espa\u00f1ol).jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Spiti Horse",
         "Link": "https://en.wikipedia.org/wiki/Spiti_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Spotted Saddle Horse",
         "Link": "https://en.wikipedia.org/wiki/Spotted_Saddle_Horse",
-        "Image": "horse_images/Spotted_Saddle_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Standardbred",
         "Link": "https://en.wikipedia.org/wiki/Standardbred",
-        "Image": "horse_images/Standardbred.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Suffolk Punch",
         "Link": "https://en.wikipedia.org/wiki/Suffolk_Punch",
-        "Image": "horse_images/Suffolk_Punch.jpg"
+        "Image": "/data/horse_images/Suffolk_Punch.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/A_Suffolk_stallion.jpg/220px-A_Suffolk_stallion.jpg"
     },
     {
         "Name": "Svensk Kallblodstravare (Swedish Coldblood Trotter), see Coldblood Trotter",
         "Link": "https://en.wikipedia.org/wiki/Coldblood_Trotter",
-        "Image": "horse_images/Svensk_Kallblodstravare_(Swedish_Coldblood_Trotter),_see_Coldblood_Trotter.jpg"
+        "Image": "/data/horse_images/Svensk_Kallblodstravare_(Swedish_Coldblood_Trotter),_see_Coldblood_Trotter.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J%C3%A4rvs%C3%B6faks_wins_again.jpg/220px-J%C3%A4rvs%C3%B6faks_wins_again.jpg"
     },
     {
         "Name": "Swedish Ardennes",
         "Link": "https://en.wikipedia.org/wiki/Swedish_Ardennes",
-        "Image": "horse_images/Swedish_Ardennes.jpg"
+        "Image": "/data/horse_images/Swedish_Ardennes.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tellus_the_Ardennais_horse.jpg/220px-Tellus_the_Ardennais_horse.jpg"
     },
     {
         "Name": "Swedish Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Swedish_Warmblood",
-        "Image": "horse_images/Swedish_Warmblood.jpg"
+        "Image": "/data/horse_images/Swedish_Warmblood.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2018FEI-WORLD-CUP-DRESSAGE-Patrik-Kittel_%28cropped%29.jpg/220px-2018FEI-WORLD-CUP-DRESSAGE-Patrik-Kittel_%28cropped%29.jpg"
     },
     {
         "Name": "Swiss Warmblood",
         "Link": "https://en.wikipedia.org/wiki/Swiss_Warmblood",
-        "Image": "horse_images/Swiss_Warmblood.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Taish\u016b horse",
         "Link": "https://en.wikipedia.org/wiki/Taish%C5%AB_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Takhi, see Przewalski's horse",
         "Link": "https://en.wikipedia.org/wiki/Przewalski%27s_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Tawleed",
         "Link": "https://en.wikipedia.org/wiki/Tawleed",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Tchernomor, see Budyonny",
         "Link": "https://en.wikipedia.org/wiki/Budyonny_horse",
-        "Image": "horse_images/Tchernomor,_see_Budyonny.jpg"
+        "Image": "/data/horse_images/Tchernomor,_see_Budyonny.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Two_year_old_budjonny_stallions_in_russia.jpg/220px-Two_year_old_budjonny_stallions_in_russia.jpg"
     },
     {
         "Name": "Tennessee Walking Horse",
         "Link": "https://en.wikipedia.org/wiki/Tennessee_Walking_Horse",
-        "Image": "horse_images/Tennessee_Walking_Horse.jpg"
+        "Image": "/data/horse_images/Tennessee_Walking_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tennessee_Walking_Horse2.jpg/220px-Tennessee_Walking_Horse2.jpg"
     },
     {
         "Name": "Tersk horse",
         "Link": "https://en.wikipedia.org/wiki/Tersk_horse",
-        "Image": "horse_images/Tersk_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Thoroughbred",
         "Link": "https://en.wikipedia.org/wiki/Thoroughbred",
-        "Image": "horse_images/Thoroughbred.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Tiger Horse",
         "Link": "https://en.wikipedia.org/wiki/Tiger_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Tokara horse",
         "Link": "https://en.wikipedia.org/wiki/Tokara_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Tolfetano",
         "Link": "https://en.wikipedia.org/wiki/Tolfetano",
-        "Image": "horse_images/Tolfetano.jpg"
+        "Image": "/data/horse_images/Tolfetano.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tolfetano_horse.jpg/220px-Tolfetano_horse.jpg"
     },
     {
         "Name": "Tori horse",
         "Link": "https://en.wikipedia.org/wiki/Tori_horse",
-        "Image": "horse_images/Tori_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Trait Du Nord",
         "Link": "https://en.wikipedia.org/wiki/Trait_Du_Nord",
-        "Image": "horse_images/Trait_Du_Nord.jpg"
+        "Image": "/data/horse_images/Trait_Du_Nord.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Trait-du-nord01_SDA2012.JPG/220px-Trait-du-nord01_SDA2012.JPG"
     },
     {
         "Name": "Trakehner",
         "Link": "https://en.wikipedia.org/wiki/Trakehner",
-        "Image": "horse_images/Trakehner.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Tsushima, see Taish\u016b",
         "Link": "https://en.wikipedia.org/wiki/Taish%C5%AB_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Tuigpaard, see Dutch Harness Horse",
         "Link": "https://en.wikipedia.org/wiki/Dutch_Harness_Horse",
-        "Image": "horse_images/Tuigpaard,_see_Dutch_Harness_Horse.jpg"
+        "Image": "/data/horse_images/Tuigpaard,_see_Dutch_Harness_Horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dutchharnesshorse.jpg/220px-Dutchharnesshorse.jpg"
     },
     {
         "Name": "Tushetian horse",
         "Link": "https://en.wikipedia.org/wiki/Tushetian_horse",
-        "Image": "horse_images/Tushetian_horse.jpg"
+        "Image": "/data/horse_images/Tushetian_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tushetian_horse.jpg/280px-Tushetian_horse.jpg"
     },
     {
         "Name": "Tuva horse",
         "Link": "https://en.wikipedia.org/wiki/Tuva_horse",
-        "Image": "horse_images/Tuva_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Ukrainian Riding Horse",
         "Link": "https://en.wikipedia.org/wiki/Ukrainian_Riding_Horse",
-        "Image": "horse_images/Ukrainian_Riding_Horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Unmol Horse",
         "Link": "https://en.wikipedia.org/wiki/Unmol_Horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Uzunyayla",
         "Link": "https://en.wikipedia.org/wiki/Uzunyayla",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Ventasso horse (Cavallo del Ventasso)",
         "Link": "https://en.wikipedia.org/wiki/Ventasso_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Virginia highlander",
         "Link": "https://en.wikipedia.org/wiki/Virginia_highlander",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Vlaamperd",
         "Link": "https://en.wikipedia.org/wiki/Vlaamperd",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Vladimir Heavy Draft",
         "Link": "https://en.wikipedia.org/wiki/Vladimir_Heavy_Draft",
-        "Image": "horse_images/Vladimir_Heavy_Draft.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Vyatka horse",
         "Link": "https://en.wikipedia.org/wiki/Vyatka_horse",
-        "Image": "horse_images/Vyatka_horse.jpg"
+        "Image": "/data/horse_images/Vyatka_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vyatka_horse.jpg/220px-Vyatka_horse.jpg"
     },
     {
         "Name": "Waler or Australian Waler",
         "Link": "https://en.wikipedia.org/wiki/Waler",
-        "Image": "horse_images/Waler_or_Australian_Waler.jpg"
+        "Image": "/data/horse_images/Waler_or_Australian_Waler.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Light_horse_walers.jpg/220px-Light_horse_walers.jpg"
     },
     {
         "Name": "Walkaloosa",
         "Link": "https://en.wikipedia.org/wiki/Walkaloosa",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Warlander",
         "Link": "https://en.wikipedia.org/wiki/Warlander",
-        "Image": "horse_images/Warlander.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Welsh Cob (Section D)",
         "Link": "https://en.wikipedia.org/wiki/Welsh_Pony_and_Cob",
-        "Image": "horse_images/Welsh_Cob_(Section_D).jpg"
+        "Image": "/data/horse_images/Welsh_Cob_(Section_D).jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Welshb_shangri-la.JPG/220px-Welshb_shangri-la.JPG"
     },
     {
         "Name": "Westphalian horse",
         "Link": "https://en.wikipedia.org/wiki/Westphalian_horse",
-        "Image": "horse_images/Westphalian_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Wielkopolski",
         "Link": "https://en.wikipedia.org/wiki/Wielkopolski",
-        "Image": "horse_images/Wielkopolski.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "W\u00fcrttemberger",
         "Link": "https://en.wikipedia.org/wiki/W%C3%BCrttemberger",
-        "Image": "horse_images/W\u00fcrttemberger.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Xilingol horse",
         "Link": "https://en.wikipedia.org/wiki/Xilingol_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Yakutian horse",
         "Link": "https://en.wikipedia.org/wiki/Yakutian_horse",
-        "Image": "horse_images/Yakutian_horse.jpg"
+        "Image": "/data/horse_images/Yakutian_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/A_Yakutian_horse_%289762345674%29.jpg/220px-A_Yakutian_horse_%289762345674%29.jpg"
     },
     {
         "Name": "Yili horse",
         "Link": "https://en.wikipedia.org/wiki/Yili_horse",
-        "Image": null
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Yonaguni horse",
         "Link": "https://en.wikipedia.org/wiki/Yonaguni_horse",
-        "Image": "horse_images/Yonaguni_horse.jpg"
+        "Image": "/data/horse_images/Yonaguni_horse.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yonaguniuma.jpg/220px-Yonaguniuma.jpg"
     },
     {
         "Name": "Zangersheide",
         "Link": "https://en.wikipedia.org/wiki/Zangersheide",
-        "Image": "horse_images/Zangersheide.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Zaniskari",
         "Link": "https://en.wikipedia.org/wiki/Zaniskari",
-        "Image": "horse_images/Zaniskari.jpg"
+        "Image": "/data/horse_images/Zaniskari.jpg",
+        "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zaniskari_Horse_in_Ladakh.jpg/220px-Zaniskari_Horse_in_Ladakh.jpg"
     },
     {
         "Name": "Zakynthos horse",
         "Link": "https://en.wikipedia.org/wiki/Zakynthos_horse",
-        "Image": "horse_images/Zakynthos_horse.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "Zweibr\u00fccker",
         "Link": "https://en.wikipedia.org/wiki/Zweibr%C3%BCcker",
-        "Image": "horse_images/Zweibr\u00fccker.jpg"
+        "Image": null,
+        "ImageURL": null
     },
     {
         "Name": "\u017demaitukas, also known as Zemaituka, Zhumd, Zhemaichu, or Zhmudka",
         "Link": "https://en.wikipedia.org/wiki/%C5%BDemaitukas",
-        "Image": "horse_images/\u017demaitukas,_also_known_as_Zemaituka,_Zhumd,_Zhemaichu,_or_Zhmudka.jpg"
+        "Image": null,
+        "ImageURL": null
     }
 ]
