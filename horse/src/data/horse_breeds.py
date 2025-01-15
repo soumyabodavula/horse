@@ -18,7 +18,7 @@ soup = BeautifulSoup(page.text, 'html.parser')
 div_cols = soup.find_all('div', class_='div-col')
 horses = []
 count = 0
-while count < 4:
+while count < 4: # only get the horse sections
     horse_list = div_cols[count].find_all('li')
     for li in horse_list:
         name = li.text.strip()
@@ -29,6 +29,3 @@ while count < 4:
 
 with open('horse_breeds.json', 'w') as f:
     json.dump(horses, f, indent=4)
-
-
-
