@@ -44,7 +44,7 @@ export default function HorseGrid() {
           {filteredBreeds.map((breed) => (
               <div key={breed.Name} className={`grid-item ${selectedImage === breed.Name ? 'enlarged' : ''}`}>
                 <img 
-                src={breed.Image || fallbackImage}
+                 src={breed.Image ? `${process.env.PUBLIC_URL}${breed.Image}` : fallbackImage}
                 onError={(e) => {
                   e.target.onerror = null;
                   e.target.src = fallbackImage
